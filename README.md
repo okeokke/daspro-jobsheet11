@@ -103,7 +103,15 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 ![Screenshot hasil pengerjaan No.7 Per.1](/daspro-jobsheet11/P1N7.png)
 8. [Bioskop08.java | (Commit 1e89a08)](https://github.com/okeokke/daspro-jobsheet11/commit/1e89a08a05ae40eaed45d2a95bc6ca108db49572)\
 ![Screenshot hasil pengerjaan No.8 Per.1](P1N8.png)
-9. . ![Screenshot hasil pengerjaan No.9 Per.1](P1N9.png)
+9. [Bioskop08.java | (Commit f0c51d8)](https://github.com/okeokke/daspro-jobsheet11/commit/f0c51d8c6d8d93d644f770204661ad9d3353b250)\
+![Screenshot hasil pengerjaan No.9 Per.1](P1N9.png)
+10. menurut saya, foreach bisa lebih ringkas, tapi foreach menurut saya masih agak susah untuk digambarkan/dibayangkan bagaimana kelihatannya jika dalam bentuk for atau dalam kata lain bayangan flowchart atau visualnya bisa membingungkan. Selain itu, loop biasa bisa lebih fleksibel seperti jika ingin ada skip/continue, perubahan peningkatan increment/decrement, penggunaan multi-variabel, dll.
+11. indeks 3, karena panjang 4 dan indeks mulai dari 0, jadi 0,1,2,3
+12. indeks 1, karena panjang 2 dan indeks mulai dari 0, jadi 0,1
+13. `String.join()` menggabungkan elemen-elemen string dalam array menjadi satu output, dengan adanya juga pemisah antar indeks value yang namanya 'delimiter', misalnya ", "
+
+
+
 ## Percobaan 2
 <!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
