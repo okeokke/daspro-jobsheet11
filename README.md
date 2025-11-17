@@ -92,10 +92,12 @@ for (int dot i = 0 ; dot i < penonton.length; i++) {
 ### Jawaban
 1. tidak perlu, pengisian nilai array tergantung pada indeks yang dicantumkan dalam kurung siku.
 2. null terdapat pada indeks terakhir dikarenakan indeks tersebut belum diberi sebuah value, dalam kasus string, jika sebuah string diinisialisasi tapi belum diberi nilai maka nilai defaultnya akan berupa "null"
-3. [Bioskop08.java | (Commit 7bbcc2d)](https://github.com/okeokke/daspro-jobsheet11/commit/7bbcc2d1ae9dea92653dcf5890c8064c83dec814)\
+3. [Bioskop08.java | (Commit 7bbcc2d)](https://github.com/okeokke/daspro-jobsheet11/commit/7bbcc2d1ae9dea92653dcf5890c8064c83dec814)
 4. yang pertama (`penonton.length`) digunakan untuk mengecek panjang kolom pada array 1 dimensi, tetapi pada array 2 dimensi, sintaks tersebut digunakan untuk mengecek panjang/jumlah baris pada suatu array, pada kasus ini, outputnya (4).\
 sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yang dipilih (bisa menggunakan angka atau variabel integer). pada kasus ini, semuanya sama (2) karena saat kita inisialisasikan tadi, kita tentukan bahwa setiap baris memiliki jumlah/panjang kolom yang sama.\
-5. ![Screenshot hasil pengerjaan No.5 Per.1](/daspro-jobsheet11/P1N5.png)
+5. [Bioskop08.java | (Commit 6dc4429)](https://github.com/okeokke/daspro-jobsheet11/commit/6dc4429119e03c86c9214a42dad3bfb1d5b515b7)\
+![Screenshot hasil pengerjaan No.5 Per.1](/daspro-jobsheet11/P1N5.png) 
+6. . ![Screenshot hasil pengerjaan No.6 Per.1](/daspro-jobsheet11/P1N6.png)
 
 ## Percobaan 2
 <!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
