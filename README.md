@@ -97,7 +97,9 @@ for (int dot i = 0 ; dot i < penonton.length; i++) {
 sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yang dipilih (bisa menggunakan angka atau variabel integer). pada kasus ini, semuanya sama (2) karena saat kita inisialisasikan tadi, kita tentukan bahwa setiap baris memiliki jumlah/panjang kolom yang sama.\
 5. [Bioskop08.java | (Commit 6dc4429)](https://github.com/okeokke/daspro-jobsheet11/commit/6dc4429119e03c86c9214a42dad3bfb1d5b515b7)\
 ![Screenshot hasil pengerjaan No.5 Per.1](/daspro-jobsheet11/P1N5.png) 
-6. . ![Screenshot hasil pengerjaan No.6 Per.1](/daspro-jobsheet11/P1N6.png)
+6. [Bioskop08.java | (Commit 0849c58)](https://github.com/okeokke/daspro-jobsheet11/commit/0849c581d40786c0da4064edfa09c5603df07ff4)\
+![Screenshot hasil pengerjaan No.6 Per.1](/daspro-jobsheet11/P1N6.png)
+7. . ![Screenshot hasil pengerjaan No.7 Per.1](/daspro-jobsheet11/P1N7.png)
 
 ## Percobaan 2
 <!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
