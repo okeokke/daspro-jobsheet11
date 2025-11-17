@@ -99,7 +99,9 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 ![Screenshot hasil pengerjaan No.5 Per.1](/daspro-jobsheet11/P1N5.png) 
 6. [Bioskop08.java | (Commit 0849c58)](https://github.com/okeokke/daspro-jobsheet11/commit/0849c581d40786c0da4064edfa09c5603df07ff4)\
 ![Screenshot hasil pengerjaan No.6 Per.1](/daspro-jobsheet11/P1N6.png)
-7. . ![Screenshot hasil pengerjaan No.7 Per.1](/daspro-jobsheet11/P1N7.png)
+7. [Bioskop08.java | (Commit 22c355f)](https://github.com/okeokke/daspro-jobsheet11/commit/22c355f57da0e9d14d6782e78705cbc1f480e15a)\
+![Screenshot hasil pengerjaan No.7 Per.1](/daspro-jobsheet11/P1N7.png)
+8. . ![Screenshot hasil pengerjaan No.8 Per.1](P1N8.png)
 
 ## Percobaan 2
 <!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
