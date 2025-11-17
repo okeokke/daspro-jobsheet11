@@ -77,7 +77,7 @@ for (String i : penonton[2]) {
     System.out.println(i);
 }
 ```
-9. Modifikasi kembali kode program pada langkah 11 untuk menampilkan nama penonton untuk setiap baris. Compile dan run program kemudian amati hasilnya.
+9. Modifikasi kembali kode program pada langkah 11(sebelumnya?) untuk menampilkan nama penonton untuk setiap baris. Compile dan run program kemudian amati hasilnya.
 ```java
 for (int dot i = 0 ; dot i < penonton.length; i++) {
     System.out.println("Penonton pada baris ke-" + (i+1) + ": " + String.join(", ", penonton[i]));
@@ -101,8 +101,9 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 ![Screenshot hasil pengerjaan No.6 Per.1](/daspro-jobsheet11/P1N6.png)
 7. [Bioskop08.java | (Commit 22c355f)](https://github.com/okeokke/daspro-jobsheet11/commit/22c355f57da0e9d14d6782e78705cbc1f480e15a)\
 ![Screenshot hasil pengerjaan No.7 Per.1](/daspro-jobsheet11/P1N7.png)
-8. . ![Screenshot hasil pengerjaan No.8 Per.1](P1N8.png)
-
+8. [Bioskop08.java | (Commit 1e89a08)](https://github.com/okeokke/daspro-jobsheet11/commit/1e89a08a05ae40eaed45d2a95bc6ca108db49572)\
+![Screenshot hasil pengerjaan No.8 Per.1](P1N8.png)
+9. . ![Screenshot hasil pengerjaan No.9 Per.1](P1N9.png)
 ## Percobaan 2
 <!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
