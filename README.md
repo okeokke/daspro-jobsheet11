@@ -22,7 +22,11 @@ Contoh output\
 ## Percobaan 1
 [Bioskop08.java](/Bioskop08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial Bioskop08.java Sebelum Pertanyaan Percobaan. (Commit e7d5ebb)](https://github.com/okeokke/daspro-jobsheet11/commit/e7d5ebb9277a2b85cb7486a0019f02d7c70f99ca)
+[Kondisi Initial Bioskop08.java Sebelum Pertanyaan Percobaan. (Commit e7d5ebb)](https://github.com/okeokke/daspro-jobsheet11/commit/e7d5ebb9277a2b85cb7486a0019f02d7c70f99ca)\
+Screenshot output inisial Bioskop08.java
+![Screenshot output inisial Bioskop08.java](P1N0.png)
+
+
 ### Pertanyaan
 1. Apakah  pengisian  elemen  array  harus  dilakukan  secara  berurutan  mulai  dari  indeks ke-0? Jelaskan! 
 2. Mengapa terdapat `null` pada daftar nama penonton? 
