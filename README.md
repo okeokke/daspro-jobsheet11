@@ -22,7 +22,7 @@ Contoh output\
 ## Percobaan 1
 [Bioskop08.java](/Bioskop08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-<!-- [Kondisi Initial Bioskop08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+[Kondisi Initial Bioskop08.java Sebelum Pertanyaan Percobaan. (Commit e7d5ebb)](https://github.com/okeokke/daspro-jobsheet11/commit/e7d5ebb9277a2b85cb7486a0019f02d7c70f99ca)
 ### Pertanyaan
 1. Apakah  pengisian  elemen  array  harus  dilakukan  secara  berurutan  mulai  dari  indeks ke-0? Jelaskan! 
 2. Mengapa terdapat `null` pada daftar nama penonton? 
@@ -90,8 +90,11 @@ for (int dot i = 0 ; dot i < penonton.length; i++) {
 
 
 ### Jawaban
-
-
+1. tidak perlu, pengisian nilai array tergantung pada indeks yang dicantumkan dalam kurung siku.
+2. null terdapat pada indeks terakhir dikarenakan indeks tersebut belum diberi sebuah value, dalam kasus string, jika sebuah string diinisialisasi tapi belum diberi nilai maka nilai defaultnya akan berupa "null"
+3. [Bioskop08.java](/Bioskop08.java)\
+4.yang pertama (`penonton.length`) digunakan untuk mengecek panjang kolom pada array 1 dimensi, tetapi pada array 2 dimensi, sintaks tersebut digunakan untuk mengecek panjang/jumlah baris pada suatu array, pada kasus ini, outputnya (4).\
+sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yang dipilih (bisa menggunakan angka atau variabel integer). pada kasus ini, semuanya sama (2) karena saat kita inisialisasikan tadi, kita tentukan bahwa setiap baris memiliki jumlah/panjang kolom yang sama.
 
 ## Percobaan 2
 <!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
