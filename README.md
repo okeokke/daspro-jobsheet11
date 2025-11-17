@@ -117,9 +117,10 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 
 
 ## Percobaan 2
-<!-- [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
+[BioskopWithScanner08.java](/BioskopWithScanner08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial BioskopWithScanner08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+![Screenshot output inisial BioskopWithScanner08.java](P2N0.png)\
+<!-- [Kondisi Initial BioskopWithScanner08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
 
 
 ### Pertanyaan
