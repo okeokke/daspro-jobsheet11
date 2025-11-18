@@ -135,7 +135,10 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 
 ### Jawaban
 1. Tidak pada kasus ini, karena Scanner hanya berfungsi sebagai pembaca input dari user, dan indeks yang ingin dipilih bebas sesuai input user selama indeks valid dan tidak out-of-bounds/di-luar-jangkauan. indeks yang tidak diisi akan tetap tidak bernilai/null
-2. . ![Screenshot pengerjaan No.2 Percobaan 2](P2N2.png)
+2. [BioskopWithScanner08.java / Commit edbde77](https://github.com/okeokke/daspro-jobsheet11/commit/edbde77205862660c1323423602ab5f7ac462972)
+![Screenshot pengerjaan No.2 Percobaan 2](P2N2.png)
+3. ![Screenshot pengerjaan No.3 Percobaan 2](P2N3.png)
+4. 5. 
 
 
 
