@@ -51,7 +51,7 @@ public class SIAKAD08 {
       for (int j = 0; j < siswa; j++) {
         totalPerMatkul += nilai[j][i];
       }
-      System.out.println("Mata Kuliah "+(i+1)+": "+ totalPerMatkul/siswa);
+      System.out.println("Mata Kuliah "+(i+1)+": "+ totalPerMatkul/matkul);
     }
     sc.close();
   }

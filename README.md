@@ -1,8 +1,17 @@
-<!-- # TUGAS
+# TUGAS
 ### TUGAS 1
+```
+Soal : 
+Sebuah perusahaan melakukan survei untuk mengukur kepuasan pelanggan terhadap layanan yang diberikan. Survei tersebut terdiri dari 6 pertanyaan dengan pilihan jawaban bernilai 1-5. Terdapat 10 data responden yang diterima. Untuk memudahkan analisis data, perusahaan ingin menggunakan array 2 dimensi untuk menyimpan hasil survei. Buatlah program java sederhana untuk:
+a. Menyimpan hasil survey
+b. Menampilkan nilai rata-rata untuk setiap responden
+c. Menampilkan nilai rata-rata untuk setiap pertanyaan
+d. Menampilkan nilai rata-rata secara keseluruhan
+```
+
 [Tugas1 / T1Job11_08.java](/T1Job11_08.java)\
 Contoh output\
-![Screenshot Output Tugas 1](/SS_T1J11.png) -->
+<video controls src="Rec1.mp4" title="Title"></video>
 
 # Percobaan
 1. [Percobaan 1](#percobaan-1)
