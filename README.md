@@ -214,3 +214,6 @@ Output Modifikasi Kedua SIAKAD08.java (Langkah 08)
 
 
 ### Jawaban
+1. [SIAKAD08.java](/SIAKAD08.java)\
+Screenshot output Percoban 3 Nomor 1
+![Screenshot output Percoban 3 Nomor 1](P4_N1.png)
