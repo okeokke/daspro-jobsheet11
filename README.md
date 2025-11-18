@@ -165,7 +165,7 @@ if (penonton[i][j]==null) {
 ## Percobaan 3
 [Numbers08.java](/Numbers08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-<!-- [Kondisi Initial Numbers08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+[Kondisi Initial Numbers08.java Sebelum Pertanyaan Percobaan. (Commit fcc5f28)](https://github.com/okeokke/daspro-jobsheet11/commit/fcc5f28b5be9bd0cc25e6d5a715d9401095f6984)
 
 ### Pertanyaan
 1. Tambahkan kode program sebagai berikut 
@@ -187,8 +187,13 @@ System.out.println("Panjang baris ke-" + (i+1) + ": "+ myNumbers[i].length);
 
 ### Jawaban
 
-
-
+1. [Numbers08.java](/Numbers08.java)
+![Screenshot output Percoban 3 Nomor 1](P3N1.png)
+2. `Arrays.toString()` membuat isi nilai satu dimensi pada sebuah array direpresentasikan menjadi string dalam bentuk [x, x, x, ...], jadi bisa menampilkan semua indeks 1 dimensi array tanpa menggunakan loop.
+3. Untuk tipe data `int` yang bersifat primitif, nilai default variabel tanpa nilainya adalah `0`
+4. [Numbers08.java](/Numbers08.java)
+![Screenshot output Percoban 3 Nomor 1](P3N4.png)
+5. Array yang sudah di-instansiasi tidak bisa diubah lagi panjangnya (tetap).
 
 ## Percobaan 4
 <!-- [SIAKAD08.java](/SIAKAD08.java)\
