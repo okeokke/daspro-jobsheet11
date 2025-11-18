@@ -198,7 +198,8 @@ System.out.println("Panjang baris ke-" + (i+1) + ": "+ myNumbers[i].length);
 ## Percobaan 4
 [SIAKAD08.java](/SIAKAD08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-<!-- [Kondisi Initial SIAKAD08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+<!-- [Kondisi Initial SIAKAD08.java Sebelum Modifikasi dan Pertanyaan Percobaan. (Commit ------)]() -->
+![Output Inisial SIAKAD08.java](P4_1.png)
 
 ### Pertanyaan
 1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah? Modifikasi kode  program  SIAKAD  untuk  mengakomodasi  jumlah  siswa  dan  jumlah  mata  kuliah yang dinamis.
