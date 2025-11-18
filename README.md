@@ -100,11 +100,11 @@ for (int dot i = 0 ; dot i < penonton.length; i++) {
 4. yang pertama (`penonton.length`) digunakan untuk mengecek panjang kolom pada array 1 dimensi, tetapi pada array 2 dimensi, sintaks tersebut digunakan untuk mengecek panjang/jumlah baris pada suatu array, pada kasus ini, outputnya (4).\
 sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yang dipilih (bisa menggunakan angka atau variabel integer). pada kasus ini, semuanya sama (2) karena saat kita inisialisasikan tadi, kita tentukan bahwa setiap baris memiliki jumlah/panjang kolom yang sama.\
 5. [Bioskop08.java | (Commit 6dc4429)](https://github.com/okeokke/daspro-jobsheet11/commit/6dc4429119e03c86c9214a42dad3bfb1d5b515b7)\
-![Screenshot hasil pengerjaan No.5 Per.1](/daspro-jobsheet11/P1N5.png) 
+![Screenshot hasil pengerjaan No.5 Per.1](P1N5.png) 
 6. [Bioskop08.java | (Commit 0849c58)](https://github.com/okeokke/daspro-jobsheet11/commit/0849c581d40786c0da4064edfa09c5603df07ff4)\
-![Screenshot hasil pengerjaan No.6 Per.1](/daspro-jobsheet11/P1N6.png)
+![Screenshot hasil pengerjaan No.6 Per.1](P1N6.png)
 7. [Bioskop08.java | (Commit 22c355f)](https://github.com/okeokke/daspro-jobsheet11/commit/22c355f57da0e9d14d6782e78705cbc1f480e15a)\
-![Screenshot hasil pengerjaan No.7 Per.1](/daspro-jobsheet11/P1N7.png)
+![Screenshot hasil pengerjaan No.7 Per.1](P1N7.png)
 8. [Bioskop08.java | (Commit 1e89a08)](https://github.com/okeokke/daspro-jobsheet11/commit/1e89a08a05ae40eaed45d2a95bc6ca108db49572)\
 ![Screenshot hasil pengerjaan No.8 Per.1](P1N8.png)
 9. [Bioskop08.java | (Commit f0c51d8)](https://github.com/okeokke/daspro-jobsheet11/commit/f0c51d8c6d8d93d644f770204661ad9d3353b250)\
@@ -120,7 +120,7 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 [BioskopWithScanner08.java](/BioskopWithScanner08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
 ![Screenshot output inisial BioskopWithScanner08.java](P2N0.png)\
-<!-- [Kondisi Initial BioskopWithScanner08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+[Kondisi Initial BioskopWithScanner08.java Sebelum Pertanyaan Percobaan. (Commit 8a726b1)](https://github.com/okeokke/daspro-jobsheet11/commit/8a726b135b3a74330dbb0e226c4a7c6b59cbef65)
 
 
 ### Pertanyaan
@@ -134,7 +134,8 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 5. Pada menu 2, jika kursi kosong, ganti `null` dengan `***`
 
 ### Jawaban
-
+1. Tidak pada kasus ini, karena Scanner hanya berfungsi sebagai pembaca input dari user, dan indeks yang ingin dipilih bebas sesuai input user selama indeks valid dan tidak out-of-bounds/di-luar-jangkauan. indeks yang tidak diisi akan tetap tidak bernilai/null
+2. . ![Screenshot pengerjaan No.2 Percobaan 2](P2N2.png)
 
 
 
