@@ -163,9 +163,9 @@ if (penonton[i][j]==null) {
 ![Screenshot pengerjaan No.4 dan 5 Percobaan 2](P2N4_N5.png)
 
 ## Percobaan 3
-<!-- [Numbers08.java](/Numbers08.java)\
+[Numbers08.java](/Numbers08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial Numbers08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+<!-- [Kondisi Initial Numbers08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
 
 ### Pertanyaan
 1. Tambahkan kode program sebagai berikut 
