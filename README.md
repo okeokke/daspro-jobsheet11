@@ -137,10 +137,30 @@ sedangkan `penonton[x].length` untuk mengecek panjang kolom pada baris array yan
 1. Tidak pada kasus ini, karena Scanner hanya berfungsi sebagai pembaca input dari user, dan indeks yang ingin dipilih bebas sesuai input user selama indeks valid dan tidak out-of-bounds/di-luar-jangkauan. indeks yang tidak diisi akan tetap tidak bernilai/null
 2. [BioskopWithScanner08.java / Commit edbde77](https://github.com/okeokke/daspro-jobsheet11/commit/edbde77205862660c1323423602ab5f7ac462972)
 ![Screenshot pengerjaan No.2 Percobaan 2](P2N2.png)
-3. ![Screenshot pengerjaan No.3 Percobaan 2](P2N3.png)
-4. 5. 
+3. [BioskopWithScanner08.java / Commit 95053bb](https://github.com/okeokke/daspro-jobsheet11/commit/95053bb79bb96a51c6c6bdb0fbf84fb0f915c514)
+```java
+if (baris < 1 || baris > 4 || kolom < 1 || kolom > 2) {
+    System.out.println("Kursi tidak tersedia.");
+    continue;
+}
+```
 
-
+![Screenshot pengerjaan No.3 Percobaan 2](P2N3.png)
+4. 5. [BioskopWithScanner08.java](/BioskopWithScanner08.java)
+```java
+if (penonton[baris-1][kolom-1] != null) {
+    System.out.println("Kursi sudah terisi. Pilih baris/kolom lain.");
+    continue;
+    }
+```
+```java
+if (penonton[i][j]==null) {
+      System.out.print("***\t");
+    } else {
+      System.out.print(penonton[i][j] + "\t");
+    }
+```
+![Screenshot pengerjaan No.4 dan 5 Percobaan 2](P2N4_N5.png)
 
 ## Percobaan 3
 <!-- [Numbers08.java](/Numbers08.java)\
