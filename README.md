@@ -196,9 +196,9 @@ System.out.println("Panjang baris ke-" + (i+1) + ": "+ myNumbers[i].length);
 5. Array yang sudah di-instansiasi tidak bisa diubah lagi panjangnya (tetap).
 
 ## Percobaan 4
-<!-- [SIAKAD08.java](/SIAKAD08.java)\
+[SIAKAD08.java](/SIAKAD08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial SIAKAD08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
+<!-- [Kondisi Initial SIAKAD08.java Sebelum Pertanyaan Percobaan. (Commit ------)]() -->
 
 ### Pertanyaan
 1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah? Modifikasi kode  program  SIAKAD  untuk  mengakomodasi  jumlah  siswa  dan  jumlah  mata  kuliah yang dinamis.
