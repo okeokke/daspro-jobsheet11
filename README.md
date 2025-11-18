@@ -1,17 +1,17 @@
 # TUGAS
 ### TUGAS 1
-```
+
 Soal : 
-Sebuah perusahaan melakukan survei untuk mengukur kepuasan pelanggan terhadap layanan yang diberikan. Survei tersebut terdiri dari 6 pertanyaan dengan pilihan jawaban bernilai 1-5. Terdapat 10 data responden yang diterima. Untuk memudahkan analisis data, perusahaan ingin menggunakan array 2 dimensi untuk menyimpan hasil survei. Buatlah program java sederhana untuk:
-a. Menyimpan hasil survey
-b. Menampilkan nilai rata-rata untuk setiap responden
-c. Menampilkan nilai rata-rata untuk setiap pertanyaan
+Sebuah perusahaan melakukan survei untuk mengukur kepuasan pelanggan terhadap layanan yang diberikan. Survei tersebut terdiri dari 6 pertanyaan dengan pilihan jawaban bernilai 1-5. Terdapat 10 data responden yang diterima. Untuk memudahkan analisis data, perusahaan ingin menggunakan array 2 dimensi untuk menyimpan hasil survei. Buatlah program java sederhana untuk:\
+a. Menyimpan hasil survey\
+b. Menampilkan nilai rata-rata untuk setiap responden\
+c. Menampilkan nilai rata-rata untuk setiap pertanyaan\
 d. Menampilkan nilai rata-rata secara keseluruhan
-```
 
 [Tugas1 / T1Job11_08.java](/T1Job11_08.java)\
-Contoh output\
-<video controls src="Rec1.mp4" title="Title"></video>
+Contoh output (video youtube)\
+[![Contoh Output Tugas 1](https://img.youtube.com/vi/Q85vUj82VZo/hqdefault.jpg)](https://www.youtube.com/watch?v=Q85vUj82VZo)
+
 
 # Percobaan
 1. [Percobaan 1](#percobaan-1)
@@ -224,5 +224,6 @@ Output Modifikasi Kedua SIAKAD08.java (Langkah 08)
 
 ### Jawaban
 1. [SIAKAD08.java](/SIAKAD08.java)\
+[SIAKAD08.java / Commit aaf1bab](https://github.com/okeokke/daspro-jobsheet11/commit/aaf1babbbc705d258fa2ec77ffaf21d1016c0a6e#diff-c11a9dbbdfd8c9543b2b16acc8e23ab1d4f9e0f0f57ee41a03116d5e05a7279f)\
 Screenshot output Percoban 3 Nomor 1
 ![Screenshot output Percoban 3 Nomor 1](P4_N1.png)
