@@ -204,9 +204,11 @@ Output Initial SIAKAD08.java Sebelum Modifikasi dan Pertanyaan Percobaan.
 
 
 Output Modifikasi Pertama SIAKAD08.java (Langkah 07)
-![alt text](P4_2.png)
-<!-- Output Modifikasi Pertama SIAKAD08.java (Langkah 08) -->
+![Output Modifikasi 1 (Langkah 7) SIAKAD08.java](P4_2.png)
 
+
+Output Modifikasi Kedua SIAKAD08.java (Langkah 08)
+![Output Modifikasi 2 (Langkah 8) SIAKAD08.java](P4_3.png)
 ### Pertanyaan
 1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah? Modifikasi kode  program  SIAKAD  untuk  mengakomodasi  jumlah  siswa  dan  jumlah  mata  kuliah yang dinamis.
 

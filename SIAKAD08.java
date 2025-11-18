@@ -15,6 +15,18 @@ public class SIAKAD08 {
 
       System.out.println("Nilai rata-rata: "+totalPerSiswa/3);
     }
+    
+    System.out.println("\n====================================");
+    System.out.println("Rata-rata Nilai setiap Mata Kuliah:");
+
+    for (int i = 0; i < 3; i++) {
+      double totalPerMatkul=0;
+
+      for (int j = 0; j < 4; j++) {
+        totalPerMatkul += nilai[j][i];
+      }
+      System.out.println("Mata Kuliah "+(i+1)+": "+totalPerMatkul/4);
+    }
     sc.close();
   }
 }
